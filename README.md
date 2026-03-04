@@ -1,0 +1,2 @@
+- volume.sh location is ~/.local/bin/
+- mic-toggle.sh location is ~/.local/bin/
