@@ -4,7 +4,7 @@ return {
 
   -- Цветовая схема rose-pine
   
-  {"sainnhe/gruvbox-material", name="gruvbox-material"},
+  {"olivercederborg/poimandres.nvim", name="poimandres"},
 
   -- Harpoon
   { "ThePrimeagen/harpoon" },
